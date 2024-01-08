@@ -1,0 +1,6 @@
+This is the test file 
+checks the input operator 
+which reads one word 
+at a time.
+Hello!!
+World
